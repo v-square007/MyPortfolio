@@ -8,7 +8,6 @@
 
 # PROFILE
 Innovative and results-driven Data Scientist with 6+ years of experience in machine learning, big data analytics, and AI-driven solutions. Passionate about leveraging data to drive business insights and optimize decision-making processes. Adept at developing predictive models, data pipelines, and scalable machine-learning applications. Strong expertise in deep learning, NLP, and cloud computing.
-![Laptop Image](https://unsplash.com/photos/turned-on-macbook-pro-wit-programming-codes-display-f77Bh3inUpE&auto-format&fit-crop)
 <br>
 
 # WORK EXPERIENCE
